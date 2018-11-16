@@ -9,7 +9,7 @@ void enterGrade(char *id, int entered_grade)
 {
     
 	if(strlen(id) == 9){
-      // protection by checking integer length
+      // protection by checking input length
 		int grade = entered_grade;
       
 		char stdID[10];

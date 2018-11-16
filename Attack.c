@@ -27,7 +27,7 @@ int main()
 	enterGrade("120141455", 89);
 
     
-	// when digites of inputted id are increased, the attack will be occured
+	// when length of input are increased, the attack will be occured
 	return 0;
 
 }
